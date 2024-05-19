@@ -13,7 +13,7 @@
   - Programming paradigm
   - Programming language
   - Contract
-  - Module
+  - Module 🎓 known
   - Library
   - Package
   - Component
@@ -35,25 +35,25 @@
   - Value 🖐️ used
   - Identifier 🖐️ used
   - Variable 🖐️ used
-  - Constant
-  - Scalar
-  - Literal
+  - Constant 🖐️ used
+  - Scalar 🖐️ used
+  - Literal 🖐️ used
   - Expression 🖐️ used
   - Heap
-  - Function 👂 heard
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
+  - Function 🖐️ used
+  - Procedure 🖐️ used
+  - Method 🖐️ used
+  - Class 🖐️ used
+  - Prototype 🎓 known
+  - Event 👂 heard
+  - Type 🎓 known
   - Flag
-  - Lexical scope
+  - Lexical scope 🎓 known
   - Code block
   - Conditions 🖐️ used
   - Loops 👂 heard
   - Assignment
-  - Regular expression
+  - Regular expression 👂 heard
   - Interface
   - Namespaces
   - Call stack
@@ -66,8 +66,8 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types 🖐️ used
+  - Reference types 🖐️ used
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,54 +81,54 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature 🖐️ used
+  - Argument 🖐️ used
+  - Parameter 🖐️ used
   - Pure function
-  - Lambda expression
+  - Lambda expression 🖐️ used
   - Side effects
-  - Closure
+  - Closure 🖐️ used
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion 🖐️ used
   - Tail call optimisation
-  - Callback
+  - Callback 🖐️ used
   - Listener
   - Composition
   - Pipe
-  - Memoize
-  - Wrapper
-  - Functor
-  - Monad
-  - Monoid
+  - Memoize 🖐️ used
+  - Wrapper 👂 heard
+  - Functor 👂 heard
+  - Monad 👂 heard
+  - Monoid 👂 heard
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array 🖐️ used
   - Structure
   - Record
-  - Enum
+  - Enum 👂 heard
   - Instance
-  - Object
+  - Object 🖐️ used
   - Collection
   - Set
-  - Hash table
-  - Linked list
-  - Doubly list
+  - Hash table 🎓 known
+  - Linked list 👂 heard
+  - Doubly list 👂 heard
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue 🎓 known
+  - Stack 🎓 known
   - Deque
-  - Tree
-  - Graph
+  - Tree 👂 heard
+  - Graph 👂 heard
   - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Mutable state 🖐️ used
+  - Immutable state 🖐️ used
+  - Serialization 👂 heard
+  - String parsing 🖐️ used
+  - JSON 
   - JSON5
   - YAML
 - Networking
@@ -142,11 +142,11 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler 🎓 known
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler
-  - Linter
+  - Transpiler 🎓 known
+  - Linter 🎓 known
   - Polyfill
   - Interpreter
   - Linker
@@ -157,36 +157,36 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger 🎓 known
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
+  - Garbage collection 👂 heard
+  - Refactoring 🎓 known
+  - Code review 🎓 known
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git 🖐️ used
+  - Github 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers 🎓 known
+  - Hard code 🎓 known
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti 🎓 known
   - Silver bullet
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code 🎓 known
+  - Unreachable code 🎓 known
+  - Duplicate code 🎓 known
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops 🎓 known
   - Long method/function/procedure
   - Long inheritance
   - Large class/file

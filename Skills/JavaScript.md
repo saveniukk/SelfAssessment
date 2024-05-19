@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
+  - `Object` 🖐️ used
+  - `Function` 🖐️ used
+  - `Boolean` 🖐️ used
+  - `Number` 🖐️ used
+  - `BigInt` 🖐️ used
+  - `String` 🖐️ used
+  - `Symbol` 🎓 known
+  - `Infinity` 🎓 known
+  - `NaN`  🎓 known
+  - `undefined`  🎓 known
+  - `null`  🎓 known
+  - `this` 🖐️ used
   - `instanceof`
-  - `...spread`
+  - `...spread` 🖐️ used
   - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
+  - `typeof` 🖐️ used
+  - Destructuring  🎓 known
+  - Generators  🎓 known
+  - Iterators  🎓 known
   - Async generator
   - Async iterator
   - Chaining
@@ -37,14 +37,14 @@
   - Logical Assignment
   - Bitwise operators
   - Ternary operator
-  - `void`
+  - `void`  🎓 known
   - `yield`
   - `await`
   - Template literal
-  - Strict mode
+  - Strict mode 🖐️ used
   - Hoisting
-  - `delete`
-  - `in`
+  - `delete` 🖐️ used
+  - `in` 🖐️ used
   - `super`
   - `eval`
   - `static`
@@ -59,47 +59,47 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
+  - `if` 🖐️ used
+  - `while` 🖐️ used
+  - `do..while` 🖐️ used
+  - `for` 🖐️ used
+  - `for..in` 🖐️ used
+  - `for..of`🖐️ used
+  - `for await` 
+  - `throw` 🖐️ used
+  - `break` 🖐️ used
   - `continue`
-  - `import`
-  - `export`
+  - `import` 🖐️ used
+  - `export` 👂 heard
   - `label`
   - `try..catch`
-  - `switch`
-  - `class`
+  - `switch` 🖐️ used
+  - `class` 🖐️ used
   - `extends`
   - `with`
-  - `new`
+  - `new` 👂 heard
 - Functions
-  - Arrow function
+  - Arrow function 🖐️ used
   - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
+  - Function declaration 🖐️ used
+  - Function expression 🖐️ used
+  - Default parameters 🖐️ used
+  - Functional object 
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array` 🖐️ used
+  - `Map` 👂 heard
+  - `Set` 👂 heard
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`
+  - `Proxy` 👂 heard
   - `RegExp`
   - `Date`
   - `Math`
@@ -110,7 +110,7 @@
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise` 👂 heard
   - `console`
   - Timers
 - Infrastructure
