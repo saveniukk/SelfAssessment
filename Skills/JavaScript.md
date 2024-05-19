@@ -65,19 +65,19 @@
   - `for` 🖐️ used
   - `for..in` 🖐️ used
   - `for..of`🖐️ used
-  - `for await` 
+  - `for await` 👂 heard
   - `throw` 🖐️ used
   - `break` 🖐️ used
   - `continue` 🖐️ used
   - `import` 🖐️ used
-  - `export` 👂 heard
+  - `export` 🎓 known
   - `label`
   - `try..catch` 🖐️ used
   - `switch` 🖐️ used
   - `class` 🖐️ used
   - `extends`
   - `with`
-  - `new` 👂 heard
+  - `new` 🖐️ used
 - Functions
   - Arrow function 🖐️ used
   - Async function
@@ -88,7 +88,7 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` 🖐️ used
 - Data structures
   - `Array` 🖐️ used
   - `Map` 👂 heard
@@ -110,7 +110,7 @@
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise` 👂 heard
+  - `Promise` 🎓 known
   - `console`
   - Timers
 - Infrastructure
