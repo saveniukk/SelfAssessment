@@ -115,7 +115,7 @@
   - Timers
 - Infrastructure
   - V8 🖐️ used
-  - Node.js 🖐️ used
+  - Node.js
   - npm 🖐️ used
   - prettier 🖐️ used
   - MDN 🖐️ used
