@@ -4,33 +4,33 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm 🖐️ used
+  - Syntax 🎓 known
   - Semantics
-  - Abstraction
-  - Paradigm
+  - Abstraction 🎓 known
+  - Paradigm 🎓 known
   - Programm
   - Programming paradigm
   - Programming language
   - Contract
-  - Module 🎓 known
-  - Library
+  - Module 🖐️ used
+  - Library 🖐️ used
   - Package
   - Component
   - Framework
   - Platform
-  - Source code
+  - Source code 🎓 known
   - Object code
   - Machine code
   - Microcode
   - Software engineering
-  - Decomposition
+  - Decomposition 🖐️ used
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) 🖐️ used
+  - KISS principle 🖐️ used
 - Syntax and concepts
   - Value 🖐️ used
   - Identifier 🖐️ used
@@ -44,26 +44,26 @@
   - Procedure 🖐️ used
   - Method 🖐️ used
   - Class 🖐️ used
-  - Prototype 🎓 known
-  - Event 👂 heard
-  - Type 🎓 known
-  - Flag
-  - Lexical scope 🎓 known
-  - Code block
+  - Prototype 🖐️ used
+  - Event 🖐️ used
+  - Type 🖐️ used
+  - Flag 🖐️ used
+  - Lexical scope 🖐️ used
+  - Code block 🖐️ used
   - Conditions 🖐️ used
-  - Loops 👂 heard
+  - Loops 🖐️ used
   - Assignment
-  - Regular expression 👂 heard
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
+  - Regular expression 🖐️ used
+  - Interface 🖐️ used
+  - Namespaces 🖐️ used
+  - Call stack 🎓 known
+  - Naming conventions 🖐️ used
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case 🖐️ used
+  - Snake case 🖐️ used
+  - Kebab case 🎓 known
   - Trailing commas
-  - Return early
+  - Return early 🎓 known
   - Fail-fast
 - Types
   - Primitive types 🖐️ used
@@ -84,61 +84,61 @@
   - Signature 🖐️ used
   - Argument 🖐️ used
   - Parameter 🖐️ used
-  - Pure function
+  - Pure function 🖐️ used
   - Lambda expression 🖐️ used
   - Side effects
   - Closure 🖐️ used
   - Partial application
-  - Currying
+  - Currying 👂 heard
   - Higher order
   - Recursion 🖐️ used
   - Tail call optimisation
   - Callback 🖐️ used
-  - Listener
-  - Composition
-  - Pipe
+  - Listener 🖐️ used
+  - Composition 
+  - Pipe 🎓 known
   - Memoize 🖐️ used
-  - Wrapper 👂 heard
+  - Wrapper 🖐️ used
   - Functor 👂 heard
   - Monad 👂 heard
   - Monoid 👂 heard
-  - Generator
+  - Generator 🖐️ used
   - Coroutine
 - Data structures
   - Array 🖐️ used
-  - Structure
-  - Record
-  - Enum 👂 heard
+  - Structure 🖐️ used
+  - Record 👂 heard
+  - Enum 🖐️ used
   - Instance
   - Object 🖐️ used
-  - Collection
-  - Set
+  - Collection 🎓 known
+  - Set 🎓 known
   - Hash table 🎓 known
-  - Linked list 👂 heard
+  - Linked list 🖐️ used
   - Doubly list 👂 heard
   - Unrolled list
-  - Circular list
+  - Circular list 🎓 known
   - Queue 🎓 known
   - Stack 🎓 known
-  - Deque
-  - Tree 👂 heard
-  - Graph 👂 heard
-  - Iterator
+  - Deque 🎓 known
+  - Tree 🖐️ used
+  - Graph 🖐️ used
+  - Iterator 🖐️ used
   - Mutable state 🖐️ used
   - Immutable state 🖐️ used
   - Serialization 👂 heard
   - String parsing 🖐️ used
-  - JSON 
+  - JSON 🎓 known
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS 🎓 known
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4 🎓 known
+  - IPv6 🎓 known
+  - NAT 🎓 known
+  - URL 🎓 known
   - URN
   - URI
 - Process and tools
@@ -153,20 +153,20 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine 🎓 known
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger 🎓 known
+  - Debugger 🖐️ used
   - Tracing
   - Garbage collection 👂 heard
   - Refactoring 🎓 known
   - Code review 🎓 known
-  - Exception
-  - Unittesting
+  - Exception 👂 heard
+  - Unittesting  👂 heard
   - git 🖐️ used
   - Github 🖐️ used
-  - Docker
+  - Docker 👂 heard
   - Kubernetes
   - GCC
   - LLVM
@@ -175,22 +175,22 @@
   - Hard code 🎓 known
   - Soft code
   - Cryptic code
-  - Improbability factor
-  - Accidental complexity
+  - Improbability factor 🎓 known
+  - Accidental complexity 🎓 known
   - Action at a distance
   - Spaghetti 🎓 known
-  - Silver bullet
-  - Not invented here
+  - Silver bullet 🎓 known
+  - Not invented here 🎓 known
   - Dead code 🎓 known
   - Unreachable code 🎓 known
   - Duplicate code 🎓 known
   - Premature optimization
   - Micro-optimization
   - Nested loops 🎓 known
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Long method/function/procedure 🎓 known
+  - Long inheritance 🎓 known
+  - Large class/file 🎓 known
+  - Too many parameters 🎓 known
   - Pass-through parameters
   - Accumulate and fire
   - Use switch/case
@@ -209,31 +209,31 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers  👂 heard
   - Kernel
   - Ring
-  - Virtual memory
+  - Virtual memory 👂 heard
   - File system
-  - Linux
+  - Linux 👂 heard
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS 👂 heard
+  - Windows 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII 🎓 known
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
   - Base64
-  - ECMA
+  - ECMA 🎓 known
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 🎓 known
   - W3C
   - ODMG

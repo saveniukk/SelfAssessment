@@ -3,7 +3,7 @@
 - Theory and concepts
   - Data types
   - Performance tuning
-  - Migrations
+  - Migrations 👂 heard
   - Schema versioning
   - Backup and recovery
   - Database scalability
@@ -36,10 +36,10 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
+  - `SELECT` 🖐️ used
+  - `INSERT` 🖐️ used
   - `UPDATE`
-  - `DELETE`
+  - `DELETE` 🖐️ used
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
@@ -52,13 +52,13 @@
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
+  - `WHERE` 🖐️ used
+  - `LIKE` 🖐️ used
+  - `IN` 🖐️ used
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE` 🖐️ used
   - `ALTER TABLE`
-  - `DROP TABLE`
+  - `DROP TABLE` 🖐️ used
   - `PRIMARY KEY`
   - `FOREIGN KEY`
   - `CHECK`
@@ -70,7 +70,7 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
+  - PostgreSQL 🖐️ used
   - Oracle
   - MySQL
   - MariaDB

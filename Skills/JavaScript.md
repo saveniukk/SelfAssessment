@@ -17,12 +17,12 @@
   - `...spread` 🖐️ used
   - `...rest`
   - `typeof` 🖐️ used
-  - Destructuring  🎓 known
-  - Generators  🎓 known
-  - Iterators  🎓 known
+  - Destructuring  🖐️ used
+  - Generators  🖐️ used
+  - Iterators  🖐️ used
   - Async generator
   - Async iterator
-  - Chaining
+  - Chaining 🎓 known
   - Optional chaining
   - IIFE
   - Async IIFE
@@ -32,14 +32,14 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
+  - Equality operators 🖐️ used
+  - Logical operators 🖐️ used
+  - Logical Assignment 🖐️ used
+  - Bitwise operators 🎓 known
+  - Ternary operator 🖐️ used
   - `void`  🎓 known
   - `yield`
-  - `await`
+  - `await` 🎓 known
   - Template literal
   - Strict mode 🖐️ used
   - Hoisting
@@ -56,7 +56,7 @@
   - Computed properties
   - Instance class fields
   - Static class fields
-  - Private class fields
+  - Private class fields 🎓 known
   - Private class methods
 - Statements
   - `if` 🖐️ used
@@ -65,19 +65,19 @@
   - `for` 🖐️ used
   - `for..in` 🖐️ used
   - `for..of`🖐️ used
-  - `for await` 
+  - `for await` 👂 heard
   - `throw` 🖐️ used
   - `break` 🖐️ used
-  - `continue`
+  - `continue` 🖐️ used
   - `import` 🖐️ used
-  - `export` 👂 heard
+  - `export` 🎓 known
   - `label`
-  - `try..catch`
+  - `try..catch` 🖐️ used
   - `switch` 🖐️ used
   - `class` 🖐️ used
   - `extends`
   - `with`
-  - `new` 👂 heard
+  - `new` 🖐️ used
 - Functions
   - Arrow function 🖐️ used
   - Async function
@@ -88,35 +88,35 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` 🖐️ used
 - Data structures
   - `Array` 🖐️ used
   - `Map` 👂 heard
   - `Set` 👂 heard
-  - `WeakMap`
-  - `WeakSet`
-  - Typed arrays
-  - Mixins
+  - `WeakMap` 🎓 known
+  - `WeakSet` 🎓 known
+  - Typed arrays 👂 heard
+  - Mixins 👂 heard
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy` 👂 heard
   - `RegExp`
-  - `Date`
-  - `Math`
+  - `Date` 🖐️ used
+  - `Math` 🖐️ used
   - `Reflect`
-  - `Error`
+  - `Error` 
   - `Atomics`
-  - `JSON`
+  - `JSON` 🎓 known
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise` 👂 heard
+  - `Promise` 🎓 known
   - `console`
   - Timers
 - Infrastructure
-  - V8
+  - V8 🖐️ used
   - Node.js
-  - npm
-  - prettier
-  - MDN
+  - npm 🖐️ used
+  - prettier 🖐️ used
+  - MDN 🖐️ used
   - TC39
