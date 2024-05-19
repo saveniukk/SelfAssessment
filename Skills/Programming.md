@@ -32,15 +32,15 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
+  - Value 🖐️ used
+  - Identifier 🖐️ used
+  - Variable 🖐️ used
   - Constant
   - Scalar
   - Literal
-  - Expression
+  - Expression 🖐️ used
   - Heap
-  - Function
+  - Function 👂 heard
   - Procedure
   - Method
   - Class
@@ -50,8 +50,8 @@
   - Flag
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
+  - Conditions 🖐️ used
+  - Loops 👂 heard
   - Assignment
   - Regular expression
   - Interface
