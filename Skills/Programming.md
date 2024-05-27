@@ -1,33 +1,33 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model 🎓 known
+  - Modeling 👂 heard
   - Subject domain
   - Algorithm 🖐️ used
   - Syntax 🎓 known
-  - Semantics
+  - Semantics 👂 heard
   - Abstraction 🎓 known
   - Paradigm 🎓 known
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Programm 
+  - Programming paradigm 👂 heard
+  - Programming language 🎓 known
   - Contract
   - Module 🖐️ used
   - Library 🖐️ used
-  - Package
-  - Component
-  - Framework
+  - Package 🎓 known
+  - Component 
+  - Framework 🎓 known
   - Platform
   - Source code 🎓 known
   - Object code
-  - Machine code
-  - Microcode
+  - Machine code 👂 heard
+  - Microcode 
   - Software engineering
   - Decomposition 🖐️ used
   - Control flow
-  - Data flow
-  - Code reuse
+  - Data flow 👂 heard
+  - Code reuse 👂 heard
   - Defensive programming
   - Don't repeat yourself (DRY) 🖐️ used
   - KISS principle 🖐️ used
@@ -39,7 +39,7 @@
   - Scalar 🖐️ used
   - Literal 🖐️ used
   - Expression 🖐️ used
-  - Heap
+  - Heap 👂 heard
   - Function 🖐️ used
   - Procedure 🖐️ used
   - Method 🖐️ used
@@ -52,7 +52,7 @@
   - Code block 🖐️ used
   - Conditions 🖐️ used
   - Loops 🖐️ used
-  - Assignment
+  - Assignment 🖐️ used
   - Regular expression 🖐️ used
   - Interface 🖐️ used
   - Namespaces 🖐️ used
@@ -62,7 +62,7 @@
   - Camel case 🖐️ used
   - Snake case 🖐️ used
   - Kebab case 🎓 known
-  - Trailing commas
+  - Trailing commas  🖐️ used
   - Return early 🎓 known
   - Fail-fast
 - Types
@@ -86,7 +86,7 @@
   - Parameter 🖐️ used
   - Pure function 🖐️ used
   - Lambda expression 🖐️ used
-  - Side effects
+  - Side effects 👂 heard
   - Closure 🖐️ used
   - Partial application
   - Currying 👂 heard
@@ -118,8 +118,8 @@
   - Doubly list 👂 heard
   - Unrolled list
   - Circular list 🎓 known
-  - Queue 🎓 known
-  - Stack 🎓 known
+  - Queue 🖐️ used
+  - Stack 🖐️ used
   - Deque 🎓 known
   - Tree 🖐️ used
   - Graph 🖐️ used
@@ -149,9 +149,9 @@
   - Linter 🎓 known
   - Polyfill
   - Interpreter
-  - Linker
-  - Dynamic linking
-  - Static linking
+  - Linker 👂 heard
+  - Dynamic linking 👂 heard
+  - Static linking 👂 heard
   - Runtime
   - Virtual machine 🎓 known
   - Register-based VM
@@ -160,7 +160,7 @@
   - Debugger 🖐️ used
   - Tracing
   - Garbage collection 👂 heard
-  - Refactoring 🎓 known
+  - Refactoring 🖐️ used
   - Code review 🎓 known
   - Exception 👂 heard
   - Unittesting  👂 heard
@@ -193,7 +193,7 @@
   - Too many parameters 🎓 known
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case 🎓 known
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -203,7 +203,7 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8 🎓 known
   - VJM
   - CLR
   - Mono
