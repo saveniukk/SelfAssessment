@@ -8,20 +8,20 @@
   - `BigInt` 🖐️ used
   - `String` 🖐️ used
   - `Symbol` 🎓 known
-  - `Infinity` 🎓 known
+  - `Infinity` 🖐️ used
   - `NaN`  🎓 known
   - `undefined`  🎓 known
   - `null`  🎓 known
   - `this` 🖐️ used
   - `instanceof`
   - `...spread` 🖐️ used
-  - `...rest`
+  - `...rest` 🖐️ used
   - `typeof` 🖐️ used
   - Destructuring  🖐️ used
   - Generators  🖐️ used
   - Iterators  🖐️ used
-  - Async generator
-  - Async iterator
+  - Async generator 👂 heard
+  - Async iterator 👂 heard
   - Chaining 🎓 known
   - Optional chaining
   - IIFE
@@ -30,25 +30,25 @@
   - `globalThis`
   - `window`
   - Getters and setters
-  - `__proto__`
-  - `prototype`
+  - `__proto__` 👂 heard
+  - `prototype` 👂 heard
   - Equality operators 🖐️ used
   - Logical operators 🖐️ used
   - Logical Assignment 🖐️ used
   - Bitwise operators 🎓 known
   - Ternary operator 🖐️ used
   - `void`  🎓 known
-  - `yield`
+  - `yield` 👂 heard
   - `await` 🎓 known
-  - Template literal
+  - Template literal 🖐️ used
   - Strict mode 🖐️ used
-  - Hoisting
+  - Hoisting 🖐️ used
   - `delete` 🖐️ used
   - `in` 🖐️ used
-  - `super`
+  - `super` 👂 heard
   - `eval`
   - `static`
-  - `Number.parseInt`
+  - `Number.parseInt` 🎓 known
   - `Number.parseFloat`
   - Property descriptors
   - Sealing properties
@@ -75,7 +75,7 @@
   - `try..catch` 🖐️ used
   - `switch` 🖐️ used
   - `class` 🖐️ used
-  - `extends`
+  - `extends` 👂 heard
   - `with`
   - `new` 🖐️ used
 - Functions
@@ -91,8 +91,8 @@
   - `return` 🖐️ used
 - Data structures
   - `Array` 🖐️ used
-  - `Map` 👂 heard
-  - `Set` 👂 heard
+  - `Map` 🖐️ used
+  - `Set` 🖐️ used
   - `WeakMap` 🎓 known
   - `WeakSet` 🎓 known
   - Typed arrays 👂 heard
@@ -104,18 +104,18 @@
   - `Date` 🖐️ used
   - `Math` 🖐️ used
   - `Reflect`
-  - `Error` 
+  - `Error`  🎓 known
   - `Atomics`
   - `JSON` 🎓 known
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise` 🎓 known
-  - `console`
+  - `console` 🖐️ used
   - Timers
 - Infrastructure
   - V8 🖐️ used
-  - Node.js
+  - Node.js 👂 heard
   - npm 🖐️ used
   - prettier 🖐️ used
   - MDN 🖐️ used
